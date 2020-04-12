@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {
+      "name": "John Smit",
+      "department": "Human Resources",
+      "salary": 5200,
+      "id": 1
+    }
+  ]
+}
